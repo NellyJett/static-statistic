@@ -1,0 +1,24 @@
+.bg-gold-200{
+    background-color: 	#fcedd3;
+}
+.border{
+    border-color: #dfaf36;
+    
+}
+.users{
+    color: #B86500;
+}
+.user{
+    color: #ae8c63;
+}
+.text{
+    color:#B86500 ;
+    font-size: 20px;
+    /* font-weight: lighter; */
+}
+.text2{
+    font-size: 20px;
+}
+.text3{
+    font-size: 25px;
+}
